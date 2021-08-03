@@ -1,0 +1,92 @@
+:root {
+  --main-radius:20px;
+  --main-padding:5px;
+}
+
+ .in{
+   color: whitesmoke;
+ }
+ .fa{
+   color: whitesmoke;
+ }
+ .tw{
+   color: whitesmoke;
+ }
+ .khld {
+   background: rgba(0, 0, 0, 0.3);
+ }
+ 
+ .container{
+   position: relative;
+ 
+ }
+
+ .cover-img{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.4;
+ }
+
+.img {
+  position: absolute;
+  left: 30%;
+  right: auto;
+  top: 6vh;
+  width: 40%;
+  height: 90%;
+  z-index: 2;
+  opacity: 0.15;
+  
+
+}
+
+.Home-div {
+height: 85vh;
+text-justify: auto;
+padding-top: 20vh;
+text-align: right;
+padding-right: 20px;
+font-size: 20px;
+
+}
+ .p{
+   padding-top: 25px;
+ }
+ .h {
+  font-size: 25px;
+ }
+
+ .text-muted {
+   color: black;
+ }
+
+.footer {
+  background: #154354;
+  height: 15vh;
+  padding-top: 2rem;
+  color: white;
+}
+
+@media (max-width: 900px) {
+
+  .section-title {
+    margin-top: 10%;
+    width: 60%;
+}
+.form-control .message {
+    width: 80%;
+ }
+ .btn-c{
+ margin: left;
+ }
+
+ .cover-img{
+   height: 100%;
+ }
+
+}
+
+
+
+

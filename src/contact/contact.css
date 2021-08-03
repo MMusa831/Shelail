@@ -1,0 +1,65 @@
+ .contact-{
+  padding-top: 5%; 
+  height: 85vh;
+  background: #9fa8ac;
+ 
+  
+}
+.section-title {
+   height: 75vh;
+   width: 60vw;
+   padding-bottom: 4px;
+   justify-content: center;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: right;
+   border: 1px solid #c5c7c7;
+   border-radius: 16px;
+  background: #c5c7c7;
+}
+.title {
+   text-align: right;
+   padding-left: 20px;
+   padding-right: 20px;
+   color: #154354;
+}
+
+.control{
+  width: 50vw;
+  height: 30px;
+  padding: 12px;
+  padding-right: 20px;
+  border-radius: 8px;
+  margin: 10px;
+  text-align: right;
+  border: 0.25pt solid #bdbebe;
+  background:  #bdbebe;
+}
+.align {
+  text-align: center;
+}
+.message {
+   width: 50vw;
+   height: 15vh;
+   padding: 10px;
+   padding-left: 20px;
+   border-radius: 8px;
+   margin: 15px;
+   text-align: right;
+   border: 0.25pt solid #bdbebe;
+   background:  #bdbebe;
+}
+
+.btn-c {
+ 
+   height: 50px;
+   width: 20vw;
+   margin-right: 70px;
+   margin-top: 15px;
+   border-radius: 8px;
+   padding-bottom: 10px;
+   background: #025FFF;
+   border: 0.25pt solid #025FFF;
+   color: #FFFFFF;
+
+}
